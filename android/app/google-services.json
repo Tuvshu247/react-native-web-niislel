@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1060483585536",
+    "project_id": "niislel-app-f481e",
+    "storage_bucket": "niislel-app-f481e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060483585536:android:dffc1f7632ec09556b6ae5",
+        "android_client_info": {
+          "package_name": "mn.ulaanbaatar.nith.niislelapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4o0h-1V9mfEndSGVlwqWzXcj5J3P7GEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
